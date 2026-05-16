@@ -224,4 +224,4 @@ A decentralized academic accountability platform that transforms learning progre
 
 ---
 
-**Built with ❤️ for learners and educators worldwide**
+
